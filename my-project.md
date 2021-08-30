@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "PAGE TITLE"
-permalink: /myproject/contact/
+title: "My Project"
+permalink: /:title/
 ---
 
 This is the description of my project.
