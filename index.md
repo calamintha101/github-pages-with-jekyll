@@ -2,4 +2,5 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+It's quite empty here, but have a look on this project I'm working on:
+[my Project](my-project.md)
