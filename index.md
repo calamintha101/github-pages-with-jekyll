@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Hello"
 ---
 
 It's quite empty here, but have a look on this project I'm working on:
