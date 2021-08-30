@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "My Project"
+title: "MyProject"
 permalink: /:title/
 ---
 
